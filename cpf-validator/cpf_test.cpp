@@ -6,7 +6,6 @@
  */
 
 #include <iostream>
-#include <cstring>
 #include "cpf_validator.h"
 
 using namespace std;
